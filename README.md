@@ -163,9 +163,7 @@ To further enhance the model and provide even deeper insights:
 
 ## Files in this Repository
 
--   `Case study - House Price Prediction - Supervised Learning (Regression).ipynb`: The main Jupyter Notebook containing all the code for data loading, cleaning, EDA, preprocessing, model training, and evaluation.
+-   `House Price Prediction - Supervised Learning (Regression).ipynb`: The main Jupyter Notebook containing all the code for data loading, cleaning, EDA, preprocessing, model training, and evaluation.
 -   `house_price_prediction_dataset.csv`: The raw dataset used for the project.
--   `Case Study_ Supervised learning - Regression.pptx.pdf`: The presentation slides outlining the business problem, project workflow, and key findings.
--   `House Price Prediction.docx`: A detailed document outlining the project overview, learning objectives, business context, and recommendations.
 -   `README.md`: This file.
 
